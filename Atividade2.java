@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Temperatura {
+public class Atividade2https://github.com/ruii48075-hue/Avalia-o1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -21,4 +21,5 @@ public class Temperatura {
         scanner.close();
     }
 }
+
 
