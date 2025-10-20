@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Notas {
+public class Atividade1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double[] notas = new double[8];
@@ -38,4 +38,5 @@ public class Notas {
         scanner.close();
     }
 }
+
 
